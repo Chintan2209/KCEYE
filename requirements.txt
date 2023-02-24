@@ -1,0 +1,13 @@
+numpy==1.22.4
+opencv-contrib-python==4.4.0.46
+scikit-image==0.18.1
+scikit-learn
+scipy
+zernike==0.0.15
+pandas
+matplotlib==3.2.2
+Flask==1.1.2
+seaborn==0.11.0
+tqdm==4.56.0
+torch
+torchvision
